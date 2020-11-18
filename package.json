@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An example blog site using Eleventy that covers fundamental functionality",
   "scripts": {
-    "build": "build": "env NODE_ENV=production npx eleventy --pathprefix 'eleventy-gh-demo'",
+    "build": "build": "env NODE_ENV=production npx eleventy --pathprefix 'gokrew'",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy",
     "test": "jest"
